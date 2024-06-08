@@ -6,7 +6,7 @@
 
 💞️ I’m looking to collaborate on open-source projects that require project management skills, where I can contribute to planning, coordination, and successful execution.
 
-📫 You can reach me via email at parekhkhushi33@hmail.com or connect with me on LinkedIn www.linkedin.com/in/khushiparekh02
+📫 You can reach me via email at parekhkhushi33@gmail.com or connect with me on LinkedIn www.linkedin.com/in/khushiparekh02
 
 😄 Pronouns: She/Her
 
