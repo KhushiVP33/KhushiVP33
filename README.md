@@ -10,7 +10,7 @@
 
 😄 Pronouns: She/Her
 
-⚡ Fun fact: I'm an avid reader, woth a particular passion for murder mystery and romantic fiction.
+⚡ Fun fact: I'm an avid reader, with a particular passion for murder mystery and romantic fiction.
 
 
 <!---
