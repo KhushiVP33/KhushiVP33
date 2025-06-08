@@ -1,16 +1,27 @@
-👋 Hi there, I'm Khushi Parekh(@KhushiVP33) studying Computer Engineering at Atmiya University.
+👋 Hey! I'm Khushi Parekh (@KhushiVP33)  
+🎓 Computer Engineering Graduate · 💼 Jr. Business Analyst Trainee @ eSparkBiz
 
-👀 I’m interested in project management and enjoy exploring various methodologies and tools to efficiently lead teams and deliver successful projects.
+🔍 I work on:
+- Functional requirement analysis & user stories  
+- Wireframes, flow diagrams, feature sheets  
+- Sprint planning & manual testing  
+- Researching domains to shape product alignment
 
-🌱 I’m currently diving deeper into project management principles, learning about agile methodologies, risk management, and stakeholder communication strategies.
+🧰 Tools I use:  
+Jira · Figma · Draw.io · Balsamiq · Google Workspace · MS Teams
 
-💞️ I’m looking to collaborate on open-source projects that require project management skills, where I can contribute to planning, coordination, and successful execution.
+🌱 Currently exploring:  
+Postman · CRM/ERP systems · Product strategy & Agile practices
 
-📫 You can reach me via email at parekhkhushi33@gmail.com or connect with me on LinkedIn www.linkedin.com/in/khushiparekh02
+💼 Domains explored:  
+eCommerce · Real Estate SaaS · Insurance · Gaming · Social Media · AI Tools
 
-😄 Pronouns: She/Her
+✨ About me:  
+Creative thinker · Empathetic analyst · Novel lover (romance + mystery)  
+Crave variety, yet grounded in meaningful structure
 
-⚡ Fun fact: I'm an avid reader, with a particular passion for murder mystery and romantic fiction.
+🤝 Open to collaborations that need user-focused analysis or planning support.  
+📫 [parekhkhushi33@gmail.com](mailto:parekhkhushi33@gmail.com) | [LinkedIn](https://www.linkedin.com/in/khushiparekh02)
 
 
 <!---
