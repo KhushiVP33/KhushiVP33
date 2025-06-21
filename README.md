@@ -6,6 +6,7 @@
 - Wireframes, flow diagrams, feature sheets  
 - Sprint planning & manual testing  
 - Researching domains to shape product alignment
+- Manual Testing
 
 🧰 Tools I use:  
 Jira · Figma · Draw.io · Balsamiq · Google Workspace · MS Teams · Trello
