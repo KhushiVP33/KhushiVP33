@@ -1,5 +1,5 @@
 👋 Hey! I'm Khushi Parekh (@KhushiVP33)  
-🎓 Computer Engineering Graduate · 💼 Jr. Business Analyst Trainee @ eSparkBiz
+🎓 Computer Engineering Graduate · 💼 Jr. Business Analyst 
 
 🔍 I work on:
 - Functional requirement analysis & user stories  
@@ -8,7 +8,7 @@
 - Researching domains to shape product alignment
 
 🧰 Tools I use:  
-Jira · Figma · Draw.io · Balsamiq · Google Workspace · MS Teams
+Jira · Figma · Draw.io · Balsamiq · Google Workspace · MS Teams · Trello
 
 🌱 Currently exploring:  
 Postman · CRM/ERP systems · Product strategy & Agile practices
